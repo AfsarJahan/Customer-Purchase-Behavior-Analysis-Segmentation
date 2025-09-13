@@ -114,6 +114,6 @@ customer-purchase-behavior-analysis/
 ### 👨‍💻 Author
 **Afsar** – MSc Statistics & Data Analytics  
 Passionate about **Data Analytics, Business Insights & Applied AI**  
-📧 [Your Email] | 🌐 [LinkedIn Profile] | 💻 [GitHub Profile]
+📧 shaikafsarjahan151@gmail.com 🌐www.linkedin.com/in/shaik-afsar-jahan-statistics | 💻 github.com/AfsarJahan
 
 ---
